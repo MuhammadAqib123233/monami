@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933518466688",
+    "project_id": "monami-a87b6",
+    "storage_bucket": "monami-a87b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933518466688:android:78bf91ccaf5bc0e045d065",
+        "android_client_info": {
+          "package_name": "com.example.monami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933518466688-650v3vgbebifo6ma4r6h3m1aa4nv0e35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADivyglwjc1uT9wsoSL9JLhC-_DfEzBMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933518466688-650v3vgbebifo6ma4r6h3m1aa4nv0e35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
